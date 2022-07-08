@@ -1,4 +1,4 @@
-# Detecting-Fine-Motor-Deficit-in-ASD-using-Motor-Parameters
+# Detecting Fine Motor Deficit in ASD using Motor Parameters
 
 - The aim of this study was to determine if patients with Autism Spectrum Disorder (ASD) have syndrome-specific motor deficits. 
   The proposed application uses machine learning classifiers to detect autistic symptoms based on motor parameters. 
